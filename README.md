@@ -18,7 +18,7 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 
 ## Preview
 <p align="center">
-  <!-- <img src="./public/screens/screen1.png"/> -->
+  <img src="./public/screens/home.png"/>
 </p>
 
 ## Technologies
